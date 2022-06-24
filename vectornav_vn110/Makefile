@@ -1,6 +1,6 @@
 CXX = g++
 INCLUDES = -Iinclude
-CPPFLAGS = -Wall
+CPPFLAGS = -Wall -fPIC
 BINDIR = build/bin
 OBJDIR = build/obj
 
